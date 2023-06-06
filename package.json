@@ -1,5 +1,5 @@
 {
-  "name": "@dgraph-io/typhoon-ui",
+  "name": "@SiddeshUbale/typhoon-ui",
   "version": "0.2.4",
   "description": "Dgraph's design system",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgraph-io/typhoon-ui.git"
+    "url": "git+https://github.com/SiddeshUbale/typhoon-ui.git#typhoon-ui-password-rule"
   },
   "author": "Thiyagaraj T (tstreamDOTh)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dgraph-io/typhoon-ui/issues"
+    "url": "https://github.com/SiddeshUbale/typhoon-ui/issues"
   },
-  "homepage": "https://github.com/dgraph-io/typhoon-ui#readme",
+  "homepage": "https://github.com/SiddeshUbale/typhoon-ui#readme",
   "dependencies": {
     "react-docgen-typescript": "^1.22.0",
     "typescript": "^4.0.3"
